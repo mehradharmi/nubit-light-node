@@ -1,1 +1,2 @@
-curl -sL1 https://nubit.sh | bash
+# Nubit-Light-Node
+Nubit Incentivized Testnet
